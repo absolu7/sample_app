@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>dev/demo_app/public/index.html</string>
+	<string>demo_app/public/index.html</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -13,6 +13,8 @@
 			<string>demo_app</string>
 			<key>regexFolderFilter</key>
 			<string>!.*/(\.[^/]*|CVS|_darcs|_MTN|\{arch\}|blib|.*~\.nib|.*\.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$</string>
+			<key>selected</key>
+			<true/>
 			<key>sourceDirectory</key>
 			<string>demo_app</string>
 		</dict>
@@ -21,7 +23,7 @@
 	<integer>314</integer>
 	<key>metaData</key>
 	<dict>
-		<key>dev/demo_app/app/controllers/users_controller.rb</key>
+		<key>demo_app/app/controllers/users_controller.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -35,7 +37,7 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>dev/demo_app/app/models/micropost.rb</key>
+		<key>demo_app/app/models/micropost.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -49,7 +51,7 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>dev/demo_app/app/models/user.rb</key>
+		<key>demo_app/app/models/user.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -63,7 +65,7 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>dev/demo_app/public/index.html</key>
+		<key>demo_app/public/index.html</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -77,7 +79,7 @@
 			<key>firstVisibleLine</key>
 			<integer>2</integer>
 		</dict>
-		<key>dev/demo_app/public/robots.txt</key>
+		<key>demo_app/public/robots.txt</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -94,11 +96,11 @@
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>dev/demo_app/app/controllers/users_controller.rb</string>
-		<string>dev/demo_app/app/models/micropost.rb</string>
-		<string>dev/demo_app/app/models/user.rb</string>
-		<string>dev/demo_app/public/index.html</string>
-		<string>dev/demo_app/public/robots.txt</string>
+		<string>demo_app/app/controllers/users_controller.rb</string>
+		<string>demo_app/app/models/micropost.rb</string>
+		<string>demo_app/app/models/user.rb</string>
+		<string>demo_app/public/index.html</string>
+		<string>demo_app/public/robots.txt</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
